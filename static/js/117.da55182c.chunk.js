@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmyweb=self.webpackChunkmyweb||[]).push([[117],{8117:function(e,n,s){s.r(n),s.d(n,{default:function(){return i}});var r=s(6106),t=s(914),u=s(9256),c=s(184);function i(){return(0,c.jsx)(u.ts,{title:"Document API",children:(0,c.jsxs)(r.Z,{gutter:6,children:[(0,c.jsx)(t.Z,{span:4,children:(0,c.jsx)(u.xu,{children:"111"})}),(0,c.jsx)(t.Z,{span:20,children:(0,c.jsx)(u.xu,{children:"1231"})})]})})}}}]);
-//# sourceMappingURL=117.da55182c.chunk.js.map
