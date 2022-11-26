@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/499.bcaf7184.chunk.css","mappings":"AAAA,aACI,kBAAmB,CACnB,eACJ","sources":["components/manage/versionManage/logVersion.css"],"sourcesContent":[".row-version {\n    padding-bottom: 8px;\n    padding-top: 8px;\n}\n"],"names":[],"sourceRoot":""}
