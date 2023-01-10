@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmyweb=self.webpackChunkmyweb||[]).push([[5866],{5866:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(1087),c=t(9256),i=t(2684),s=t(184);function l(){return(0,s.jsxs)(c.ts,{title:"Public API",children:[(0,s.jsx)("p",{children:"Public Index"}),(0,s.jsx)(u.rU,{to:"/docApis/key",children:(0,s.jsx)(i.O,{value:"Detail"})})]})}}}]);
-//# sourceMappingURL=5866.a81508de.chunk.js.map
