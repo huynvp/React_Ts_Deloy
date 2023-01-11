@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmyweb=self.webpackChunkmyweb||[]).push([[4318],{4318:function(e,n,u){u.r(n),u.d(n,{default:function(){return t}});var r=u(7689),c=u(184);function t(){var e=(0,r.UO)().key;return(0,c.jsxs)("p",{children:["Public page ",e]})}}}]);
-//# sourceMappingURL=4318.3c9847e7.chunk.js.map
